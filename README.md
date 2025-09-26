@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focuses on the **classification** and **segmentation** of **White Blood Cells (WBCs)** using deep learning models. The goal is to first segment WBCs from images and then classify them based on their type using different CNN-based architectures.
+Further details about the project are given in the [Presentation](./Presentation.pptx) pptx file.
 
 ### Models:
 Models have to be downloaded from: https://drive.google.com/drive/folders/1-N9mb5mG_IlBru4mT2z65VMVEsPRzu4J?usp=drive_link
